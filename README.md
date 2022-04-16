@@ -1,7 +1,7 @@
-#### Augenstern-creator
+#### Linlin-creator
 <h1 align="center">
   <a href="https://www.qindalin.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi , I'm Augenestern;零壹年秋,生于北方!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi , I'm linlin;!&center=true&size=27">
   </a>
 </h1>
 <h3 align="center">A struggling developer from China</h3>
