@@ -37,13 +37,9 @@
 <!-- 统计卡片end -->
 <br>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=Augenstern-creator&theme=dracula&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=linlin991229&theme=tokyo-night" />
+</div>
 
 
 
