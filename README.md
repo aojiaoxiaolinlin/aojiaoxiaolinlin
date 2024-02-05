@@ -37,9 +37,7 @@
 <!-- 统计卡片end -->
 <br>
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=linlin991229&theme=tokyo-night" />
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linlin991229&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
