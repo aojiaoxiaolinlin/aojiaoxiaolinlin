@@ -21,15 +21,10 @@
  <img src="https://visitor-badge.glitch.me/badge?page_id=Augenstern-creator&left_color=green&right_color=red">
 </p>
 <!-- 徽章end -->
-<br>
-<!-- Github奖杯🏆start -->
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Augenstern-creator&theme=onedark&row=1&column=6&no-frame=true&no-bg=true"> </div>
-<!-- Github奖杯🏆end -->
-<br>
 <!-- Github连续打卡start -->
 <div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Augenstern-creator&theme=dark&hide_border=true" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=linlin991229&theme=dark&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
 <!-- Github连续打卡end -->
