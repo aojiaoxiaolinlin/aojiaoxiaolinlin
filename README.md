@@ -19,13 +19,6 @@
   </a>
 </p>
 <!-- 徽章end -->
-<!-- Github连续打卡start -->
-<div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aojiaoxiaolinlin&theme=dark&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
-</div>
-<!-- Github连续打卡end -->
 <br>
 <!-- 统计卡片start -->
 <div align="center">
