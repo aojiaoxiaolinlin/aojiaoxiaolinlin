@@ -8,7 +8,7 @@
 <!-- 徽章start -->
 <p align="center">
   <!-- Github徽章 -->
-  <a href="https://github.com/aojiaoxiaolinlin" target="_blank"><img src="https://img.shields.io/badge/GitHub-linlin-brightgreen"></a>
+  <a href="https://github.com/aojiaoxiaolinlin" target="_blank"><img src="https://img.shields.io/badge/GitHub-linlin-red"></a>
   <!-- Gitee徽章 -->
   <a href="https://gitee.com/xiaolinlinw" target="_blank"><img src="https://img.shields.io/badge/Gitee-linlin-orange"></a>
   <!-- CSDN徽章 -->
