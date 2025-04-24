@@ -25,7 +25,7 @@
   <img alt="Rust" src="https://img.shields.io/badge/Rust-e33b26?style=for-the-badge&logo=Rust&logoColor=black" />
   <img alt="Bevy" src="https://img.shields.io/badge/Bevy-232326?style=for-the-badge&logo=bevy&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-5282a0?style=for-the-badge&logo=openjdk&logoColor=f29111" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" />
   <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
