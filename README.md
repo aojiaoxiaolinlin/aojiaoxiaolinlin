@@ -1,9 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Han+Sans&pause=1000&center=true&random=false&width=435&lines=%E5%82%B2%E5%A8%87%E5%B0%8F%E9%9C%96%E9%9C%96" alt="Typing SVG" /></a>
 </h1>
-<h1 align="center">
-</h1>
-<h3 align="center">傲娇小霖霖</h3>
 <br>
 <!-- 徽章start -->
 <p align="center">
