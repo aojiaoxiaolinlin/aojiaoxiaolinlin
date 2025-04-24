@@ -11,8 +11,6 @@
   <a href="https://github.com/aojiaoxiaolinlin" target="_blank"><img src="https://img.shields.io/badge/GitHub-linlin-red"></a>
   <!-- Gitee徽章 -->
   <a href="https://gitee.com/xiaolinlinw" target="_blank"><img src="https://img.shields.io/badge/Gitee-linlin-orange"></a>
-  <!-- CSDN徽章 -->
- <a href="https://blog.csdn.net/wxlinlin?type=blog" target="_blank"><img src="https://img.shields.io/badge/CSDN-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-yellow"></a>
   <!-- 个人网站徽章 -->
   <a href="https://aojiaoxiaolinlin.github.io" target="_blank">
     <img src="https://img.shields.io/badge/blog-霖霖-red" alt="个人网站">
