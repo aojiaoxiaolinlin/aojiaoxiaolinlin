@@ -40,6 +40,14 @@
 <!--技能结束-->
 <br>
 
+<p align="center">
+  <img alt="status" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aojiaoxiaolinlin&theme=aura_dark" />
+  <img alt="status" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aojiaoxiaolinlin&theme=aura_dark" />
+  <img alt="status" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aojiaoxiaolinlin&theme=aura_dark" />
+  <img alt="status" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aojiaoxiaolinlin&theme=aura_dark" />
+  <img alt="status" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aojiaoxiaolinlin&theme=aura_dark&utcOffset=8" />
+</p>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aojiaoxiaolinlin&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
