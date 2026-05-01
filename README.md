@@ -34,6 +34,7 @@
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/Vue-2a3642?style=for-the-badge&logo=vue.js&logoColor=42b883" />
+  <img alt="React" src="https://img.shields.io/badge/React-23272F?style=for-the-badge&logo=React" />
   <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-2a3642?style=for-the-badge&logo=Nuxt&logoColor=%2300dc82">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
